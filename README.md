@@ -1,1 +1,2 @@
-# Practical-Machine-Learning-Project-
+# Australian Weather Prediction
+# By : Isaac Armah-Mensah
